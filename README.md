@@ -1,3 +1,4 @@
+The central idea behind the project is to develop a technology-based solution that makes the IEP development process faster, more efficient, individualized, and professionally manageable, while maintaining human oversight, learner privacy, fairness, and the quality of educational planning for learners with special needs in primary schools. This version also makes one important academic distinction: the AI should generate a professional-reviewable draft, rather than independently deciding what a child needs. There will be need for a programmer to handle the backend of the AI based IEP Generator.
 # IEP Assist — research prototype (React + TypeScript + Tailwind CSS)
 
 Fictional data only. No legal compliance or organisational endorsement is claimed.
